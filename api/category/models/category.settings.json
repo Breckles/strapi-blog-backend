@@ -13,9 +13,9 @@
     "name": {
       "type": "string"
     },
-    "articles": {
+    "posts": {
       "via": "category",
-      "collection": "article"
+      "collection": "post"
     }
   }
 }
